@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react'
 import './Login.css'
-import emailjs from 'emailjs';
+import emailjs from '@emailjs/browser';
 
 
 const Login = () => {
